@@ -1,5 +1,13 @@
 ### Hi there 👋
+[KPI](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICT*) student 💻
 
+:mailbox: Mail: pashkovsky.eugen@gmail.com
+
+
+Telegram: [@Secret333Boy](https://t.me/Secret333Boy)
+
+
+FICT* - Faculty of Informatics and Computer Science
 <!--
 **Secret333Boy/secret333boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
