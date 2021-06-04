@@ -1,10 +1,11 @@
 ### Hi there 👋
-[KPI](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICT*) student 💻
+**Check out my repos c:**
 
-:mailbox: Mail: pashkovsky.eugen@gmail.com
+- [KPI](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICT*) student 💻
 
+- :mailbox: Mail: pashkovsky.eugen@gmail.com
 
-Telegram: [@Secret333Boy](https://t.me/Secret333Boy)
+- Telegram: [@Secret333Boy](https://t.me/Secret333Boy)
 
 
 FICT* - Faculty of Informatics and Computer Science
