@@ -1,5 +1,11 @@
 ### Hi there 👋
-**Check out my repos c:**
+<hr/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Secret333Boy&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret333Boy&hide=html,css,dockerfile&layout=compact&theme=tokyonight)
+
+<hr/>
 
 - [KPI](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICT*) student 💻
 
@@ -7,8 +13,9 @@
 
 - Telegram: [@Secret333Boy](https://t.me/Secret333Boy)
 
+> FICT* - Faculty of Informatics and Computer Science
 
-FICT* - Faculty of Informatics and Computer Science
+**Check out my repos c:**
 <!--
 **Secret333Boy/secret333boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
