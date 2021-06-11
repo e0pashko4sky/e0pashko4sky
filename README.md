@@ -2,7 +2,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Secret333Boy&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret333Boy&hide=html,css,dockerfile&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret333Boy&hide=html,css,dockerfile&theme=tokyonight&layout=compact)
 
 - [KPI](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICT*) student 💻
 
