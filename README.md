@@ -4,7 +4,7 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret333Boy&hide=html,css,dockerfile&theme=tokyonight&layout=compact)
 
-- [KPI](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICT*) student 💻
+- [KPI](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICS*) student 💻
 
 - :mailbox: Mail: pashkovsky.eugen@gmail.com
 
@@ -12,7 +12,7 @@
 
 **Check out my repos c:**
 
-> FICT* - Faculty of Informatics and Computer Science
+> FICS* - Faculty of Informatics and Computer Science
 <!--
 **Secret333Boy/secret333boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
