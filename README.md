@@ -5,7 +5,7 @@
 
 - [KPI](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICS*) student 💻
 
-- :mailbox: Mail: pashkovsky.eugen@gmail.com
+- :mailbox: Mail: pashkovskiy.eugen@gmail.com
 
 - Telegram: [@Secret333Boy](https://t.me/Secret333Boy)
 
