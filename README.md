@@ -1,5 +1,5 @@
 ### Hi there 👋
-|![Stats](https://github-readme-stats.vercel.app/api?username=Secret333Boy&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret333Boy&hide=html,css,dockerfile&count_private=true&theme=tokyonight&layout=compact)|
+|![Stats](https://github-readme-stats.vercel.app/api?username=Secret333Boy&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret333Boy&hide=html,css,dockerfile,scss&count_private=true&theme=tokyonight&layout=compact)|
 | ------------- | ------------- |
 - 🎓 Student of [Kyiv Polytechnic Institute](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICS*)
 - 💻 Learning JavaScript, TypeScript, Node.js, Java, JavaScript Frameworks (React.js, Next.js, Express, Nest.js, React Native)
