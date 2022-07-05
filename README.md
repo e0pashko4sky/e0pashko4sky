@@ -7,7 +7,6 @@
 - 💬 Telegram: [@Secret333Boy](https://t.me/Secret333Boy)
 - 👥 LinkedIn: [Eugene Pashkovsky](https://www.linkedin.com/in/eugene-pashkovsky/)
 
-**Check out my repos c:**
 
 > FICS* - Faculty of Informatics and Computer Science
 <!--
