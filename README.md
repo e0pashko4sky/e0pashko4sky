@@ -5,7 +5,7 @@
 - 💻 Learning JavaScript, TypeScript, Node.js, Java, JavaScript Frameworks (React.js, Next.js, Express, Nest.js, React Native)
 - 📫 Mail: pashkovskiy.eugen@gmail.com
 - 💬 Telegram: [@Secret333Boy](https://t.me/Secret333Boy)
-- 👥 LinkedIn: [Eugene Pashkovsky](https://www.linkedin.com/in/eugene-pashkovsky/)
+- 👥 LinkedIn: [Eugene Pashkovsky](https://www.linkedin.com/in/eugene-pashkovsky-6954b0244/)
 
 
 > FICS* - Faculty of Informatics and Computer Science
