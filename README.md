@@ -4,7 +4,7 @@
 - 🎓 Student of [Kyiv Polytechnic Institute](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICS*)
 - 💻 Learning JavaScript, TypeScript, Node.js, Java, JavaScript Frameworks (React.js, Next.js, Express, Nest.js, React Native)
 - 📫 Mail: pashkovskiy.eugen@gmail.com
-- 💬 Telegram: [@Secret333Boy](https://t.me/eugene_pashkovskiy)
+- 💬 Telegram: [@eugene_pashkovskiy](https://t.me/eugene_pashkovskiy)
 - 👥 LinkedIn: [Eugene Pashkovsky](https://www.linkedin.com/in/eugene-pashkovsky-6954b0244/)
 
 
