@@ -1,11 +1,12 @@
 ### Hi there 👋
-|![Stats](https://github-readme-stats.vercel.app/api?username=Secret333Boy&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret333Boy&hide=html,css,dockerfile,scss&count_private=true&theme=tokyonight&layout=compact)|
+|![Stats](https://github-readme-stats.vercel.app/api?username=Secret333Boy&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret333Boy&hide=html,css,dockerfile,scss,jupyter%20notebook&count_private=true&theme=tokyonight&layout=compact)|
 | ------------- | ------------- |
 - 🎓 Graduate of [Kyiv Polytechnic Institute](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICS*)
-- 💻 Learning JavaScript, TypeScript, Node.js, C, Java, JavaScript Frameworks (React.js, Next.js, Express, Nest.js, React Native)
+- 💻 Proficient in JavaScript, TypeScript, databases (mostly postgresql and mongodb), git, various frameworks and libraries (such as react, express, next.js, nest.js etc.). Also I am familiar with Python (ML/AI), Java (Core & Thread), Go, basic C, Solidity
 - 📫 Mail: pashkovskiy.eugen@gmail.com
 - 💬 Telegram: [@eugene_pashkovskiy](https://t.me/eugene_pashkovskiy)
 - 👥 LinkedIn: [Eugene Pashkovsky](https://www.linkedin.com/in/eugene-pashkovsky-6954b0244/)
+- 🔭 I’m currently working on 
 
 
 > FICS* - Faculty of Informatics and Computer Science
