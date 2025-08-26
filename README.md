@@ -6,7 +6,6 @@
 - 📫 Mail: pashkovskiy.eugen@gmail.com
 - 💬 Telegram: [@eugene_pashkovskiy](https://t.me/eugene_pashkovskiy)
 - 👥 LinkedIn: [Eugene Pashkovsky](https://www.linkedin.com/in/eugene-pashkovsky-6954b0244/)
-- 🔭 I’m currently working on 
 
 
 > FICS* - Faculty of Informatics and Computer Science
