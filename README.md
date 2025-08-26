@@ -1,5 +1,5 @@
 ### Hi there 👋
-|![Stats](https://github-readme-stats.vercel.app/api?username=Secret333Boy&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret333Boy&hide=html,css,dockerfile,scss,jupyter%20notebook&count_private=true&theme=tokyonight&layout=compact)|
+|![Stats](https://github-readme-stats.vercel.app/api?username=e0pashko4sky&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e0pashko4sky&hide=html,css,dockerfile,scss,jupyter%20notebook&count_private=true&theme=tokyonight&layout=compact)|
 | ------------- | ------------- |
 - 🎓 Graduate of [Kyiv Polytechnic Institute](https://en.wikipedia.org/wiki/Igor_Sikorsky_Kyiv_Polytechnic_Institute) (FICS*)
 - 💻 Proficient in JavaScript, TypeScript, databases (mostly postgresql and mongodb), git, various frameworks and libraries (such as react, express, next.js, nest.js etc.). Also I am familiar with Python (ML/AI), Java (Core & Thread), Go, basic C, Solidity
